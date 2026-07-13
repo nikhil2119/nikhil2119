@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="nikhil_ascii.svg" alt="Nikhil ASCII Portrait" width="700">
+  <img src="Formal Pic.jpg" width="250" style="border-radius:50%;" />
 </p>
